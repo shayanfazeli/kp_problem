@@ -21,6 +21,7 @@ Please refer to [this notebook](https://github.com/shayanfazeli/kp_problem/blob/
 
 
 <!-- SECTION III -->
-## Exercise 3: Visualization
-Please refer to [this notebook](https://github.com/shayanfazeli/kp_problem/blob/master/notebooks/exercise_2_and_3/1-visualizations.ipynb) for a detailed review. 
+## Exercise 3: Visualization Tools
+Please refer to [this notebook](https://github.com/shayanfazeli/kp_problem/blob/master/notebooks/exercise_2_and_3/1-visualizations.ipynb) for data visualization tools.
+Visualizations related to model results are in Exercise 2.
 
