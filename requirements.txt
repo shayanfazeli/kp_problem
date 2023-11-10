@@ -1,0 +1,8 @@
+psmpy
+kaleido
+plotly_express
+plotly
+scikit-learn
+torch
+matplotlib
+tqdm
